@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm an **18-year-old high school student** from **Germany**, passionate about **Kotlin** and **backend development**. I enjoy exploring cryptography, security, and efficient system design.
+I'm an **19-year-old high school student** from **Germany**, passionate about **Kotlin** and **backend development**. I enjoy exploring cryptography, security, and efficient system design.
 
 ## 🔧 Tech Stack  
-- **Languages:** Kotlin, Java, Python, Bash  
+- **Languages:** Kotlin, Java, C++, Bash  
 - **Interests:** Software Development, Automation, System Programming
 
 ## 📌 Projects  
